@@ -1,0 +1,13 @@
+.body {
+    color: white;
+    background-color: red;
+}
+
+.button {
+    background-color: lightcoral;
+    color: white;
+}
+
+.stTextInput {
+    color: white !important;
+}
